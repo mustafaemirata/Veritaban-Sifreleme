@@ -1,2 +1,3 @@
 # Veritaban-Sifreleme
-[SifreliVeriler/images/resim1.png]
+![Şifreleme Süreci](SifreliVeriler/images/resim1.png)
+
